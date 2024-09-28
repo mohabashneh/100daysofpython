@@ -6,3 +6,4 @@ print("test test")
 # then i need to stage the changes from the source control personal
 # then i just write a message and commit personal
 # this is the last time im making sure i think personal
+# okay this is working, seems like i need to "sync changes" after committing work
