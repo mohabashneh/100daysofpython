@@ -1,3 +1,8 @@
 print("test test")
 # Is this working? Personal?
 # seems like its working work
+# okay i think i really know how to know personal
+#i do all what i want here personal
+# then i need to stage the changes from the source control personal
+# then i just commit personal
+# this is the last time im making sure i think personal
