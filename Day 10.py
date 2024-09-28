@@ -1,0 +1,6 @@
+amount = float(input("How much did you spend? "))
+tip = int(input("How much % do you wish to tip? "))
+people = int(input("How many people are in the group? "))
+PerPerson = (amount / people)
+AfterTip = round((PerPerson * (1 + (tip * 0.01))), 2)
+print("Each person owes ", AfterTip)
