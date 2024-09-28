@@ -7,3 +7,4 @@ print("test test")
 # then i just write a message and commit personal
 # this is the last time im making sure i think personal
 # okay this is working, seems like i need to "sync changes" after committing work
+# yes, i finally worked it out! one last commit to make sure all is good personal
